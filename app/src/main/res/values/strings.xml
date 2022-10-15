@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">androidnangcaoca2</string>
+    <string name="title_activity_bai2">Bai2Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="google_api">AIzaSyCL_OrvKXePU5aPbaTO9BuNGFvcryY6EIw</string>
+    <string name="facebook_app_id">507484600877605</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">f3994f7e6f81c8101a8e111d8a027d23</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Bai4MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:textSize="20dp"
+        android:layout_marginTop="0dp"
+        android:text="Vị trí" />
+
+    <TextView
+        android:id="@+id/txtKetQuaLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Long|Lat" />
+
+    <Button
+        android:id="@+id/btnCheckConnection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Check Kết nối" />
+</LinearLayout>
